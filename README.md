@@ -8,7 +8,7 @@
 -->
 
 # Communicate using Markdown
-
+# new ehafd=er
 # _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -36,7 +36,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ### Example
 
 ```md
-# This is an `<h1>` header, which is the largest
+This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
 
